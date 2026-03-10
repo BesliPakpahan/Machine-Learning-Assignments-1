@@ -62,4 +62,4 @@ Machine-Learning-SEMS6/
 
 ---
 
-> Universitas Internasional Batam — Teknik Informatika
+> Politeknik Negeri Batam — Jurusan Teknik Elektro — Prodi Teknik Robotika
