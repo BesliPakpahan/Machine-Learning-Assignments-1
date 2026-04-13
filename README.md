@@ -26,11 +26,22 @@ Machine-Learning-SEMS6/
 │   ├── Hands_On_OOP_Paradigm_Concepts.ipynb
 │   └── Week2_Tipe_Data.ipynb
 │
-└── week 2/
-    ├── Assignment_Week 3.ipynb
-    ├── california_dataset.csv
-    ├── company.csv
-    └── TelcoCustomerChurn.csv
+├── week 2/
+│   ├── Assignment_Week 3.ipynb
+│   ├── california_dataset.csv
+│   ├── company.csv
+│   └── TelcoCustomerChurn.csv
+│
+├── week 3/
+│   ├── Supervised_Learning_Hands_On_Regresi.ipynb
+│   └── USA_Housing.csv
+│
+└── week 5/
+    ├── Supervised_Learning_Hands_On_Classification.ipynb
+    ├── titanic.csv
+    ├── Week 5 - Cara Kerja KNN.xlsx
+    ├── Week 5 - Introduction to classification - KNN.pptx
+    └── execution.log
 ```
 
 ---
@@ -49,6 +60,21 @@ Machine-Learning-SEMS6/
 | File | Topik |
 |---|---|
 | `Assignment_Week 3.ipynb` | Feature Engineering: Outlier Handling (IQR), Missing Value Handling, dan Encoding |
+
+### Week 3
+| File | Topik |
+|---|---|
+| `Supervised_Learning_Hands_On_Regresi.ipynb` | Supervised Learning untuk regresi menggunakan dataset perumahan |
+
+### Week 5
+| File | Topik |
+|---|---|
+| `Supervised_Learning_Hands_On_Classification.ipynb` | Supervised Learning untuk klasifikasi (Titanic), EDA, preprocessing, training, dan evaluasi model |
+| `Week 5 - Cara Kerja KNN.xlsx` | Materi pendukung konsep kerja algoritma KNN |
+| `Week 5 - Introduction to classification - KNN.pptx` | Materi presentasi pengantar klasifikasi dan KNN |
+
+### Catatan
+- Week 4 di-skip sesuai alur perkuliahan.
 
 ---
 
